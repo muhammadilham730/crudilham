@@ -7,16 +7,16 @@
             <button type="button" class="btn btn-tool" data-card-widget="collapse" title="Collapse">
               <i class="fas fa-minus"></i>
             </button>
-           
+            
           </div>
         </div>
         <div class="card-body">
-          dashboard
+         dashboard
         </div>
         <!-- /.card-body -->
-       <!-- <div class="card-footer">
+        <!-- <div class="card-footer">
           Footer
-        </div>-->
+        </div> -->
         <!-- /.card-footer-->
       </div>
       <!-- /.card -->
